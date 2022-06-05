@@ -1,0 +1,4 @@
+/pcap/*.txt
+/utils/main*.py
+/afta/*.csv
+/afta/output/*
